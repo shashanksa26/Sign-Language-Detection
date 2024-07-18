@@ -72,4 +72,3 @@ The pre-trained model `action.h5` is included in the root directory. It is train
 ### Python Scripts
 
 - `demo.py`: Runs the real-time sign language detection demo. It captures video from the webcam, processes each frame to extract key points using MediaPipe, and uses the pre-trained model to predict and display the detected gesture.
-```
