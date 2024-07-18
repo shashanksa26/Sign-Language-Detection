@@ -1,4 +1,3 @@
-```markdown
 # Sign Language Detection
 
 This project uses a pre-trained model to perform real-time sign language detection using a webcam. The model is trained to recognize specific sign language gestures such as "hello", "thanks", and "I love you".
