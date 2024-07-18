@@ -21,13 +21,13 @@ Here's a step-by-step `README.md` guide for cloning and running the Sign Languag
 First, clone the repository from GitHub to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/shashanksa26/Sign-Language-Detection.git
 ```
 
 Navigate into the project directory:
 
 ```bash
-cd your-repository-name
+cd Sign-Language-Detection
 ```
 
 ### Step 2: Install the Dependencies
