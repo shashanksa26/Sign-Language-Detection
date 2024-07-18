@@ -1,6 +1,6 @@
 # Sign Language Detection
 
-This project uses a pre-trained model to perform real-time sign language detection using a webcam. The model is trained to recognize specific sign language gestures such as "hello", "thanks", and "I love you".
+This project uses a pre-trained model to perform real-time sign language detection using a webcam. The model is trained to recognize specific sign language gestures such as "Hello", "Thank You", and "I am fine".
 
 ## Directory Structure
 
@@ -12,17 +12,33 @@ This project uses a pre-trained model to perform real-time sign language detecti
 - `requirements.txt`: Lists the Python dependencies required for the project.
 - `README.md`: This file, which provides an overview of the project and instructions on how to use it.
 
+Here's a step-by-step `README.md` guide for cloning and running the Sign Language Detection demo from GitHub:
+
 ## Setup Instructions
 
-### Requirements
+### Step 1: Clone the Repository
 
-Make sure you have the following dependencies installed. You can install them using `pip`:
+First, clone the repository from GitHub to your local machine:
+
+```bash
+git clone https://github.com/your-username/your-repository-name.git
+```
+
+Navigate into the project directory:
+
+```bash
+cd your-repository-name
+```
+
+### Step 2: Install the Dependencies
+
+Make sure you have Python installed on your machine. Then, install the required dependencies using pip:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Running the Demo
+### Step 3: Running the Demo
 
 To run the real-time sign language detection demo using your webcam, execute the following command:
 
