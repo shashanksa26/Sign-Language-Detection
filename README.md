@@ -1,5 +1,3 @@
-Here is the entire text converted into Markdown format:
-
 ```markdown
 # Sign Language Detection
 
@@ -60,5 +58,3 @@ The pre-trained model `action.h5` is included in the root directory. It is train
 
 - `demo.py`: Runs the real-time sign language detection demo. It captures video from the webcam, processes each frame to extract key points using MediaPipe, and uses the pre-trained model to predict and display the detected gesture.
 ```
-
-This Markdown file provides a clear and organized overview of your project, making it easy for others to understand and use.
